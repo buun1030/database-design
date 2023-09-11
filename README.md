@@ -15,7 +15,7 @@ Guide to relational database design
 * Defined and established business rules
 * Defined all the appropriate views
 * Established overall data integrity
-* In every steps, should interview and working with user
+* In every steps, should interview and working with users
 
 ## Refining Data Integrity
 
