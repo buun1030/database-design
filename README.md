@@ -122,7 +122,7 @@ All of these items constitute the complete set of documentation for the logical 
 
 ### “Flat-File” Design
 
-sometimes known as the “throw-everything-into-one-big-table” design
+Sometimes known as the “throw-everything-into-one-big-table” design
 
 ### Spreadsheet Design
 
